@@ -1,6 +1,7 @@
 # Fruit Freshness Classification using SVM
 
-This repository contains one of my earliest Python machine learning projects, created around 5 years ago (2021).
+This repository contains one of my earliest Python machine learning projects, created around 2021.  
+As part of a student project, the implementation was written mostly from scratch without relying on high‑level machine learning libraries, in order to understand the fundamentals more deeply.
 
 The project uses classical computer vision and an SVM classifier to distinguish between fresh and rotten fruits.
 
